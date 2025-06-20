@@ -1,0 +1,9 @@
+### What is Kubernetes
+
+- Kubernetes is the OS of the cloud
+- Kubernetes is a bunch of virtual machines that are able to communicate properly with each other and to divide their workload
+
+### What is a pod
+
+- smallest unit in a node (a collection of containers + other containers)
+- the scheduler asigns the pod to a node 
